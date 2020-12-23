@@ -11,7 +11,7 @@ var watch 				= require('gulp-jade');
 var watch 				= require('gulp-jade');
 var coffeelint 		= require('gulp-coffeelint');
 var plumber 			= require('gulp-plumber');
-var karma 				= require('gulp-karma');
+//var karma 				= require('gulp-karma');
 
 var devFolder 	= '';
 var distFolder  = '';
