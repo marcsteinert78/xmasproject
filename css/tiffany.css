@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "tiffany-font";
+    src: url(KULDIPA2.TTF);
+}
+
+body {
+    background-image: url(i/tiffany-logo.svg);
+    background-repeat: repeat-x;
+}
+
 .fond {
     position: fixed;
     padding-top: 85px;
@@ -5,7 +15,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #84cedb;
+    background-color: #0ABAB5;
 }
 
 .contener_home_one {
