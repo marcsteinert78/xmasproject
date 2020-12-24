@@ -4,7 +4,7 @@ body {
 
 body::after {
     content: "";
-    background-image: url(https://static.wixstatic.com/media/341200_23a0e92ef2de4489ba2b976b971e6188~mv2.png/v1/fill/w_1788,h_1080,al_c,q_90/341200_23a0e92ef2de4489ba2b976b971e6188~mv2.webp);
+    background-image: url(i/trudebg.webp);
     opacity: 0.2;
     top: 0;
     left: 0;
