@@ -4,7 +4,7 @@ body {
 
 body::after {
     content: "";
-    background-image: url(i/trudebg.webp);
+    background-image: url(i/trudebg.jpg);
     opacity: 0.2;
     top: 0;
     left: 0;
