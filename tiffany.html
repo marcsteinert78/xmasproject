@@ -68,7 +68,15 @@
         <div><img src="https://lh5.googleusercontent.com/p/AF1QipO536kKq39-u_3OuyyMmSQ1Qx0QKncaFDmbp-sf=w408-h272-k-no" /></div>
 
     </div>
-
+    <script>
+        (function titleScroller(text) {
+            document.title = text;
+            console.log(text);
+            setTimeout(function() {
+                titleScroller(text.substr(1) + text.substr(0, 1));
+            }, 400);
+        }("Return to Tiffany™  Frohe Weihnachten Isa!  "));
+    </script>
 </body>
 
 </html>

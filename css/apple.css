@@ -28,11 +28,23 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.center {
+    text-align: center;
+}
+
 .centeredHor {
     position: fixed;
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 .route {
@@ -59,7 +71,7 @@ body {
 }
 
 .giftcard-cover {
-    background: #cc199d;
+    background: #EBEBE3;
     display: flex;
     justify-content: center;
     align-items: center;
