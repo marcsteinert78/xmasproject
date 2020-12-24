@@ -4,8 +4,7 @@
 }
 
 body {
-    background-image: url(i/tiffany-logo.svg);
-    background-repeat: repeat-x;
+    background-image: url(i/tiffanybg.jpg);
 }
 
 .fond {
@@ -15,7 +14,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #0ABAB5;
+    background-image: url(i/tiffanybg.jpg);
 }
 
 .contener_home_one {
